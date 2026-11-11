@@ -1,4 +1,4 @@
-```python
+python
 import math
 import random
 import pygame
@@ -367,4 +367,4 @@ if __name__ == "__main__":
 
         import traceback
         traceback.print_exc()
-```
+
